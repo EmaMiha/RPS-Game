@@ -40,18 +40,28 @@ RPS-GAME site is made for those who want to get to know the world of coding thro
 ### Testing
 
 
-▪︎ I did the Validator Testing through the official W3C validator for HTML and CSS and no errors were founded.
+▪︎ I did the Validator Testing through the official W3C validator for HTML and CSS and no errors were found.
 
 ![RPS Game](/assets/images/HTML.png)
 
 ![RPS Game](/assets/images/CSS.png)
 
 
+▪︎ JSHint JavaScript Validator also didn't show any error.
+
 ▪︎ I got a lighthouse report with the good results.
 
 ![RPS Game](/assets/images/Lighthouse.png)
 
 
+#### Deployment
 
 
+▪︎ The site was deployed to GitHub pages.
+
+   ▫︎ The live link can be found here: https://emamiha.github.io/RPS-Game/
+
+   
+    
+   
 
