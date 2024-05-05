@@ -6,7 +6,6 @@ RPS-GAME site is made for those who want to get to know the world of coding thro
 
 ## Features
 
-Existing Features
 
 ▪︎ Header
 
@@ -25,7 +24,33 @@ Existing Features
 
    ![RPS Game](/assets/images/GameChoices.png)
 
-   
+
+
+▪︎ The Game Scores
+
+   ▫︎ The JavaScript code chooses a random option for Computer and displayes one of the selected options: Rock, Paper or Scissors. 
+
+   ▫︎ Under the winning name is the result section.
+
+
+![RPS Game](/assets/images/Score.png)
+
+
+
+### Testing
+
+
+▪︎ I did the Validator Testing through the official W3C validator for HTML and CSS and no errors were founded.
+
+![RPS Game](/assets/images/HTML.png)
+
+![RPS Game](/assets/images/CSS.png)
+
+
+▪︎ I got a lighthouse report with the good results.
+
+![RPS Game](/assets/images/Lighthouse.png)
+
 
 
 
