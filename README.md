@@ -37,7 +37,7 @@ RPS-GAME site is made for those who want to get to know the world of coding thro
 
 
 
-### Testing
+## Testing
 
 
 ▪︎ I did the Validator Testing through the official W3C validator for HTML and CSS and no errors were found.
@@ -54,14 +54,18 @@ RPS-GAME site is made for those who want to get to know the world of coding thro
 ![RPS Game](/assets/images/Lighthouse.png)
 
 
-#### Deployment
+##  Deployment
 
 
 ▪︎ The site was deployed to GitHub pages.
 
    ▫︎ The live link can be found here: https://emamiha.github.io/RPS-Game/
 
+
+
    
-    
-   
+## Credits
+
+▪︎ The icon for the favicon was taken from https://www.favicon.cc
+
 
