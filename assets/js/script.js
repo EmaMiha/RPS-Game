@@ -27,5 +27,7 @@ function playGame (playerChoice) {
         }
     }
 
-    
+    playerDisplay.textContent = `YOU: ${playerChoice}`;
+    computerDisplay.textContent = `COMPUTER: ${computerChoice}`;
+    resultDisplay.textContent = result;
 }
