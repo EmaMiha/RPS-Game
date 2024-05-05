@@ -8,3 +8,34 @@ body {
     align-items: center;
 }
 
+h1 {
+    font-size: 3.5rem;
+    color: black;  
+}
+
+.choices {
+    margin-bottom: 30px;
+}
+
+.choices button {
+    font-size: 7.5rem;
+    min-width: 160px;
+    margin: 0 10px;
+    border-radius: 250px;
+    background-color: turquoise;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+
+.choices button:hover {
+    background-color: turquoise;
+}
+
+#playerDisplay, #computerDisplay {
+    font-size: 2.5rem;
+}
+
+#resultDisplay {
+    font-size: 5rem;
+    margin: 30px 0;
+}
